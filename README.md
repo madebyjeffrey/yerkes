@@ -50,92 +50,72 @@ python3 -m unittest discover -s tests -p "test_*.py"
 02:37:47 [INFO    ] yerkes.__main__:   - Oroumus  population=34047  x=0  y=8
 02:37:47 [INFO    ] yerkes.game: News published [2501]: Year 2501 begins
 02:37:47 [INFO    ] yerkes.game: Year advanced to 2501  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2501
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2501] Year 2501 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2501] Population increased on Kaugon: 46451 -> 53337 (+6886)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2501] Population increased on Veilia: 35817 -> 41141 (+5324)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2501] Population increased on Aroolon: 42505 -> 48812 (+6307)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2501] Population increased on Faomar: 39160 -> 44976 (+5816)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2501] Population increased on Oroumus: 34047 -> 39110 (+5063)
-02:37:47 [INFO    ] yerkes.game: News published [2502]: Year 2502 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2502  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2502
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2502] Year 2502 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2502] Population increased on Kaugon: 53337 -> 61230 (+7893)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2502] Population increased on Veilia: 41141 -> 47248 (+6107)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2502] Population increased on Aroolon: 48812 -> 56044 (+7232)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2502] Population increased on Faomar: 44976 -> 51646 (+6670)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2502] Population increased on Oroumus: 39110 -> 44919 (+5809)
-02:37:47 [INFO    ] yerkes.game: News published [2503]: Year 2503 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2503  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2503
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2503] Year 2503 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2503] Population increased on Kaugon: 61230 -> 70273 (+9043)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2503] Population increased on Veilia: 47248 -> 54251 (+7003)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2503] Population increased on Aroolon: 56044 -> 64332 (+8288)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2503] Population increased on Faomar: 51646 -> 59292 (+7646)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2503] Population increased on Oroumus: 44919 -> 51581 (+6662)
-02:37:47 [INFO    ] yerkes.game: News published [2504]: Year 2504 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2504  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2504
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2504] Year 2504 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2504] Population increased on Kaugon: 70273 -> 80628 (+10355)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2504] Population increased on Veilia: 54251 -> 62278 (+8027)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2504] Population increased on Aroolon: 64332 -> 73826 (+9494)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2504] Population increased on Faomar: 59292 -> 68053 (+8761)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2504] Population increased on Oroumus: 51581 -> 59218 (+7637)
-02:37:47 [INFO    ] yerkes.game: News published [2505]: Year 2505 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2505  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2505
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2505] Year 2505 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2505] Population increased on Kaugon: 80628 -> 92478 (+11850)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2505] Population increased on Veilia: 62278 -> 71474 (+9196)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2505] Population increased on Aroolon: 73826 -> 84695 (+10869)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2505] Population increased on Faomar: 68053 -> 78087 (+10034)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2505] Population increased on Oroumus: 59218 -> 67969 (+8751)
-02:37:47 [INFO    ] yerkes.game: News published [2506]: Year 2506 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2506  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2506
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2506] Year 2506 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2506] Population increased on Kaugon: 92478 -> 106028 (+13550)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2506] Population increased on Veilia: 71474 -> 82003 (+10529)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2506] Population increased on Aroolon: 84695 -> 97130 (+12435)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2506] Population increased on Faomar: 78087 -> 89571 (+11484)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2506] Population increased on Oroumus: 67969 -> 77991 (+10022)
-02:37:47 [INFO    ] yerkes.game: News published [2507]: Year 2507 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2507  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2507
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2507] Year 2507 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2507] Population increased on Kaugon: 106028 -> 121510 (+15482)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2507] Population increased on Veilia: 82003 -> 94051 (+12048)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2507] Population increased on Aroolon: 97130 -> 111345 (+14215)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2507] Population increased on Faomar: 89571 -> 102705 (+13134)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2507] Population increased on Oroumus: 77991 -> 89461 (+11470)
-02:37:47 [INFO    ] yerkes.game: News published [2508]: Year 2508 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2508  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2508
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2508] Year 2508 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2508] Population increased on Kaugon: 121510 -> 139182 (+17672)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2508] Population increased on Veilia: 94051 -> 107826 (+13775)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2508] Population increased on Aroolon: 111345 -> 127581 (+16236)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2508] Population increased on Faomar: 102705 -> 117715 (+15010)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2508] Population increased on Oroumus: 89461 -> 102580 (+13119)
-02:37:47 [INFO    ] yerkes.game: News published [2509]: Year 2509 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2509  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2509
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2509] Year 2509 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2509] Population increased on Kaugon: 139182 -> 159332 (+20150)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2509] Population increased on Veilia: 107826 -> 123563 (+15737)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2509] Population increased on Aroolon: 127581 -> 146107 (+18526)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2509] Population increased on Faomar: 117715 -> 134852 (+17137)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2509] Population increased on Oroumus: 102580 -> 117572 (+14992)
-02:37:47 [INFO    ] yerkes.game: News published [2510]: Year 2510 begins
-02:37:47 [INFO    ] yerkes.game: Year advanced to 2510  [game=A quiet drift in the void]
-02:37:47 [INFO    ] yerkes.__main__: After turn, year=2510
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2510] Year 2510 begins
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2510] Population increased on Kaugon: 159332 -> 182279 (+22947)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2510] Population increased on Veilia: 123563 -> 141524 (+17961)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2510] Population increased on Aroolon: 146107 -> 167222 (+21115)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2510] Population increased on Faomar: 134852 -> 154397 (+19545)
-02:37:47 [INFO    ] yerkes.__main__: NEWS [2510] Population increased on Oroumus: 117572 -> 134689 (+17117)
+# Yerkes
+
+Turn-based space game sandbox with validated data models, deterministic name generation, typed news events, and both CLI + pygame demo paths.
+
+## Modules
+
+- `data.py`: `Planet`, `Starmap`, population model/validation
+- `game.py`: `Game`, random game generation, turn advancement phases
+- `news.py`: `NewsItem`, `PopulationChangeNews`, `NewsAccumulator`
+- `planet_names.py`: deterministic, pronounceable, effectively unbounded planet names
+- `log.py`: opt-in logging configuration under the `yerkes.*` logger tree
+- `main.py`: CLI demo (generates a game and advances 10 turns)
+- `pygame_ui.py`: GUI demo (click planets to inspect population/location)
+
+## Requirements
+
+- Python `>=3.14` (per `pyproject.toml`)
+- `uv` installed: <https://docs.astral.sh/uv/>
+
+## Setup with uv
+
+Create/sync the project environment:
+
+```bash
+uv sync
 ```
+
+If you want GUI support, include optional GUI dependencies:
+
+```bash
+uv sync --extra gui
+```
+
+## Run the CLI demo
+
+```bash
+uv run python main.py
+```
+
+## Run the pygame GUI
+
+Install GUI extras first (one time):
+
+```bash
+uv sync --extra gui
+```
+
+Then launch:
+
+```bash
+uv run python pygame_ui.py
+```
+
+GUI controls:
+
+- `SPACE`: advance one turn/year
+- Left click a planet: show selected planet population and coordinates
+
+## Run tests
+
+```bash
+uv run python -m unittest discover -s tests -p "test_*.py"
+```
+
+## Notes
+
+- Logging is disabled by default until `configure_logging(...)` is called.
+- `Game.generate(...)` accepts optional `map_size`, `min_distance`, and `seed`.
+- Generated starting planet populations are below `50,000`.
